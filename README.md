@@ -80,37 +80,37 @@ Cyber Attacks Mitigation
 ### ✍ 🔰 Phishing Email Analysis Tools 
 
 - ✔1-Email Header Analysis 
-- MXToolbox https://mxtoolbox.com/EmailHeaders.aspx
-- Amazon https://mha.azurewebsites.net/
-- MailHeader https://mailheader.org/
+	- MXToolbox https://mxtoolbox.com/EmailHeaders.aspx
+	- Amazon https://mha.azurewebsites.net/
+	- MailHeader https://mailheader.org/
 
 - ✔2-URL / IP Reputation Check
-- Virustotal https://www.virustotal.com/gui/home/search
-- URLScan https://urlscan.io/
-- Talosintelligence https://www.talosintelligence.com/
-- AbuseIPdb https://www.abuseipdb.com/
-- IPinfo https://ipinfo.io/
-- Check Phish https://checkphish.ai/
+	- Virustotal https://www.virustotal.com/gui/home/search
+	- URLScan https://urlscan.io/
+	- Talosintelligence https://www.talosintelligence.com/
+	- AbuseIPdb https://www.abuseipdb.com/
+	- IPinfo https://ipinfo.io/
+	- Check Phish https://checkphish.ai/
 
 - ✔3-File / Attachment / Malware Analysis
-- File Hash check https://www.virustotal.com/gui/home/search
-- Anyrun Sandboxing https://any.run/
-- Hybrid-Analysis Sandboxing https://www.hybrid-analysis.com/
-- Joesandbox https://www.joesandbox.com/#windows
-- Cuckoo Sandbox https://cuckoo.cert.ee/
-- VMRay https://www.vmray.com/try-vmray-products/
-- Triage https://tria.ge/dashboard
+	- File Hash check https://www.virustotal.com/gui/home/search
+	- Anyrun Sandboxing https://any.run/
+	- Hybrid-Analysis Sandboxing https://www.hybrid-analysis.com/
+	- Joesandbox https://www.joesandbox.com/#windows
+	- Cuckoo Sandbox https://cuckoo.cert.ee/
+	- VMRay https://www.vmray.com/try-vmray-products/
+	- Triage https://tria.ge/dashboard
 
 - ✔4-Whois domain record
-- Centralops https://centralops.net/co/
-- Domaintools https://whois.domaintools.com/
+	- Centralops https://centralops.net/co/
+	- Domaintools https://whois.domaintools.com/
 
 - ✔5-Phishing analysis tool
-- Phish Tool https://www.phishtool.com/
+	- Phish Tool https://www.phishtool.com/
 
 - ✔6 - Miscellaneous
-- Browser Sandbox https://www.browserling.com/
-- EML file opener https://www.thunderbird.net/en-US/
+	- Browser Sandbox https://www.browserling.com/
+	- EML file opener https://www.thunderbird.net/en-US/
 
 - ✔7-What to do https://www.howtogeek.com/437513/what-should-you-do-if-you-receive-a-phishing-email/
 
@@ -118,9 +118,9 @@ Cyber Attacks Mitigation
 
 
 
-- ✍ Checking Phishing Mail by (SPF, DKIM, and DMARC).
+# ✍ Checking Phishing Mail by (SPF, DKIM, and DMARC).
 
-- 🔰 SPF, DKIM, and DMARC are email authentication protocols that are used to help prevent email fraud and protect email users from receiving fraudulent or malicious emails.
+## 🔰 SPF, DKIM, and DMARC are email authentication protocols that are used to help prevent email fraud and protect email users from receiving fraudulent or malicious emails.
 
 - ✔ SPF (Sender Policy Framework) is a protocol that allows an email receiver to verify that incoming mail from a domain is being sent from a server authorized by that domain's administrators. 
 	- https://mxtoolbox.com/spf.aspx
@@ -135,7 +135,7 @@ Cyber Attacks Mitigation
 	- https://www.mimecast.com/products/dmarc-analyzer/
 
 
-- ✍  TOP FREE Online Checking on Phishing Mail
+# ✍  TOP FREE Online Checking on Phishing Mail
 
 - ✔ CheckPhish https://checkphish.ai/
 - ✔ EasyDmark https://easydmarc.com/tools/phishing-url
